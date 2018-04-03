@@ -1,0 +1,15 @@
+{
+  "name": "date-countdown",
+  "version": "1.0.0",
+  "main": "index.js",
+  "unpkg": "index.browser.js",
+  "author": "YusukeNakaya",
+  "description": "Just by specifying the year, month, day, the remaining number of days until that day is returned.",
+  "keywords": [
+    "countdown",
+    "date",
+    "day",
+    "between"
+  ],
+  "license": "MIT"
+}
